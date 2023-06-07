@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://andrew-zhang.github.io/sitemap.xml
+Sitemap: https://andrew-zhang.github.io//sitemap.xml
