@@ -94,6 +94,14 @@
               {%- endif -%}
               {%- endif -%}
               {% endfor -%}
+
+              <!-- Updated CV (called cv.pdf) -->
+              <li class="nav-item">
+                <a class="nav-link" href="{{ '/assets/pdf/resume.pdf' | relative_url }}">{{ "resume" }}
+                </a>
+              </li>
+
+
               {%- if site.enable_darkmode %}
 
               <!-- Toogle theme mode -->

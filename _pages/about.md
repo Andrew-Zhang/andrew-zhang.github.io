@@ -24,8 +24,6 @@ I love to bike, play chess, workout, and game.
 
 I am currently interested in multimodal learning.
 
-I have two cute dogs and a cat.
-
-I am currently looking for an internship for summer 2023. Feel free to look at my [CV](/assets/pdf/example_pdf.pdf) and [projects](/projects).
+I am currently looking for an internship for summer 2023. Feel free to look at my [resume](/assets/pdf/resume.pdf) and [projects](/projects).
 
 In the future, I would like to change the world, or something like that :)
