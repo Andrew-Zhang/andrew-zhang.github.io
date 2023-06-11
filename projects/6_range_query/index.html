@@ -10,9 +10,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Door Defender | Andrew  Zhang</title>
+    <title>Range Queries with Fractional Cascading | Andrew  Zhang</title>
     <meta name="author" content="Andrew  Zhang">
-    <meta name="description" content="Easy-to-install device that protects your door from intruders">
+    <meta name="description" content="Created a data structure that combines KD-Trees, Range Trees, and fractional cascading to perform range queries while balancing time and space complexity.">
 
 
     <!-- Bootstrap & MDB -->
@@ -37,7 +37,7 @@
     <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22&gt;&lt;text%20y=%22.9em%22%20font-size=%2290%22&gt;%E2%9A%9B%EF%B8%8F&lt;/text&gt;&lt;/svg&gt;">
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://andrew-zhang.github.io/projects/1_door_defender/">
+    <link rel="canonical" href="https://andrew-zhang.github.io/projects/6_range_query/">
 
     <!-- Dark Mode -->
     
@@ -80,8 +80,10 @@
               <li class="nav-item ">
                 <a class="nav-link" href="/projects/">projects</a>
               </li>
-              <li class="nav-item ">
-                <a class="nav-link" href="/cv/">cv</a>
+<!-- Updated CV (called cv.pdf) -->
+              <li class="nav-item">
+                <a class="nav-link" href="/assets/pdf/resume.pdf">resume
+                </a>
               </li>
 
               <!-- Toogle theme mode -->
@@ -112,12 +114,14 @@
         <div class="post">
 
           <header class="post-header">
-            <h1 class="post-title">Door Defender</h1>
-            <p class="post-description">Easy-to-install device that protects your door from intruders</p>
+            <h1 class="post-title">Range Queries with Fractional Cascading</h1>
+            <p class="post-description">Created a data structure that combines KD-Trees, Range Trees, and fractional cascading to perform range queries while balancing time and space complexity.</p>
           </header>
 
           <article>
-            <p>Created at VTHacks 2022. Check out the project at <a href="https://devpost.com/software/a-cool-project-649p5e" rel="external nofollow noopener" target="_blank">https://devpost.com/software/a-cool-project-649p5e</a>. Check out the code at <a href="https://github.com/GryphNdor/Door-Defender" rel="external nofollow noopener" target="_blank">https://github.com/GryphNdor/Door-Defender</a></p>
+            <p><a href="https://github.com/leebri2n/CS3114-bestgroup/tree/main/CS3114-Project3" rel="external nofollow noopener" target="_blank">code</a></p>
+
+<p>Performs 3D range queries in sqrt(n) time and O(n) space. This is done by combining KD-Trees, Range Trees, and fractional cascading. The KD-Tree is used to find the points that are within the range in the x and y dimensions. The Range Tree is used to find the points that are within the range in the z dimension. We sped up the search along the z dimension with fractional cascading.</p>
 
           </article>
 
