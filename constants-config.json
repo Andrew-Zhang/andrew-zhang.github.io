@@ -1,6 +1,6 @@
 {
-	"database-id": "169b6e632b7448529120599281265ac5",
-	"author": "",
+	"database-id": "1b98ece308f780ac969ae2371d7bf4c7",
+	"author": "Andrew Zhang",
 	"tracking": {
 		"google-analytics": {
 			"use-ga": true,
@@ -15,8 +15,8 @@
 	},
 	"google-search-console-html-tag": "",
 	"socials": {
-		"email": "",
-		"github": "",
+		"email": "andrewzhang63017@gmail.com",
+		"github": "andrew-zhang",
 		"googlescholar": "",
 		"semanticscholar": "",
 		"dblp": "",
@@ -30,15 +30,15 @@
 		"calendar": "",
 		"kofi": "",
 		"buy-me-a-coffee": "",
-		"this-github-repo": "https://github.com/nerdymomocat-templates/webtrotion-astro-notion-cms-website-blog"
+		"this-github-repo": ""
 	},
 	"custom-domain": "",
 	"base-path": "",
 	"giscus": {
-		"data-repo": "nerdymomocat-templates/webtrotion-astro-notion-cms-website-blog",
-		"data-repo-id": "R_kgDOK0FuUA",
+		"data-repo": "Andrew-Zhang/andrew-zhang.github.io",
+		"data-repo-id": "R_kgDOOJuKig",
 		"data-category": "Announcements",
-		"data-category-id": "DIC_kwDOK0FuUM4CbZ5A",
+		"data-category-id": "DIC_kwDOOJuKis4CoHrx",
 		"data-mapping": "pathname",
 		"data-input-position": "top",
 		"data-reactions-enabled": true
