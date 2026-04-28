@@ -1,0 +1,7 @@
+"ACL":
+  url: https://aclanthology.org/venues/acl/
+  color: "#8c1d18"
+
+"EMNLP":
+  url: https://aclanthology.org/venues/emnlp/
+  color: "#1b5e20"

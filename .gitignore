@@ -1,34 +1,15 @@
-# build output
-dist/
-.output/
-.data
-
-# dependencies
+_site
+.bundle
+.DS_store
+.idea
+.jekyll-cache
+.jekyll-metadata
+.ruby-version
+.sass-cache
+.tweet-cache
+.venv
+assets/libs/
+assets/rendercv/rendercv_output/*.typ
+Gemfile.lock
 node_modules/
-
-# logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-*.zip
-
-# environment variables
-.env
-.env.production
-
-# macOS-specific files
-.DS_Store
-
-# misc
-!**/.gitkeep
-*.pem
-.cache
-.astro
-.vscode/
-public/notion/**/*
-public/assets/preloaded/*
-tmp/*
-!tmp/.gitkeep
-src/styles/global.css
-buildcache/
+vendor
