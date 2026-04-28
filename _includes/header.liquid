@@ -20,9 +20,6 @@
             {{- site.title -}}
           {% endif %}
         </a>
-      {% elsif site.enable_navbar_social %}
-        <!-- Social Icons -->
-        <div class="navbar-brand social">{% social_links %}</div>
       {% endif %}
       <!-- Navbar Toggle -->
       <button
@@ -117,6 +114,12 @@
               {% endif %}
             {% endif %}
           {% endfor %}
+          {% if site.enable_navbar_social %}
+            <!-- Social Icons -->
+            <li class="nav-item navbar-social-item">
+              <div class="navbar-social">{% social_links %}</div>
+            </li>
+          {% endif %}
           {% if site.search_enabled %}
             <!-- Search -->
             <li class="nav-item">
