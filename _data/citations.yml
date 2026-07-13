@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-01'
+  last_updated: '2026-07-13'
 papers:
   kARDtYIAAAAJ:KlAtU1dfN6UC:
-    citations: 10
+    citations: 11
     title: 'SteerVLM: Robust Model Control through Lightweight Activation Steering for Vision Language Models'
     year: '2025'
   kARDtYIAAAAJ:MXK_kJrjxJIC:
@@ -14,6 +14,6 @@ papers:
     title: 'Maximal Matching Matters: Preventing Representation Collapse for Robust Cross-Modal Retrieval'
     year: '2025'
   kARDtYIAAAAJ:kNdYIx-mwKoC:
-    citations: 1
+    citations: 2
     title: Zero-Shot Fine-Grained Image Classification Using Large Vision-Language Models
     year: '2025'
