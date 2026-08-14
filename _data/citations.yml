@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-08-14'
 papers:
   kARDtYIAAAAJ:KlAtU1dfN6UC:
-    citations: 11
-    title: 'SteerVLM: Robust Model Control through Lightweight Activation Steering for Vision Language Models'
+    citations: 12
+    title: 'SteerVLM: Robust Model Control through Lightweight Activation Steering for Vision Language Models.'
     year: '2025'
   kARDtYIAAAAJ:MXK_kJrjxJIC:
-    citations: 9
+    citations: 11
     title: Flexible-length text infilling for discrete diffusion models
     year: '2025'
   kARDtYIAAAAJ:Y0pCki6q_DkC:
-    citations: 5
+    citations: 7
     title: 'Maximal Matching Matters: Preventing Representation Collapse for Robust Cross-Modal Retrieval'
     year: '2025'
   kARDtYIAAAAJ:kNdYIx-mwKoC:
