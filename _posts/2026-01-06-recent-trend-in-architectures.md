@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title: "Recent Trend in Architectures"
 date: 2026-01-06 00:00:00-0800
 description: "A recurring recipe seems to be “more parallel computation paths, each narrower.”"

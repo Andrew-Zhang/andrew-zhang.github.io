@@ -9,7 +9,7 @@ last_name: Zhang
 author:
   name: Andrew Zhang
 contact_note: >
-  Please email me at azhang42 [at] vt [dot] edu or DM me on X.
+  Please email me at azhang42 [at] cs [dot] ucla [dot] edu or DM me on X.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal site of Andrew Zhang, a UCLA Computer Science PhD student advised by Aditya Grover, focused on efficient inference, multi-token generation, and hardware-aware algorithms.
 footer_text: >
@@ -256,7 +256,7 @@ jekyll-archives:
       tags: "/blog/:type/:name/"
       categories: "/blog/:type/:name/"
 
-display_tags: ["thought", "blog", "update"] # these tags will be displayed on the front page of your blog
+display_tags: ["thought", "update"] # these tags will be displayed on the front page of your blog
 display_categories: [] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------

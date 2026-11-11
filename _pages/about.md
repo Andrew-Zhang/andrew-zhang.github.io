@@ -10,7 +10,7 @@ profile:
   more_info: >
     <p>UCLA CS PhD student</p>
     <p>Virginia Tech BS/MS</p>
-    <p>azhang42 [at] vt [dot] edu</p>
+    <p>azhang42 [at] cs [dot] ucla [dot] edu</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,10 +26,10 @@ latest_posts:
   limit: 6 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in Computer Science at UCLA, advised by [Aditya Grover](https://aditya-grover.github.io/). I did a 4 year BS/MS at Virginia Tech under [Dr. Chris Thomas](https://people.cs.vt.edu/chris/). I am interested in multi-token generation (discrete diffusion and speculative decoding) and hardware-aware algorithms.
+I am a PhD student in Computer Science at UCLA, advised by [Aditya Grover](https://aditya-grover.github.io/). Previously, I worked on accelerating inference on [AWS Trainium](https://aws.amazon.com/ai/machine-learning/trainium/) devices. I did a BS/MS at Virginia Tech under [Dr. Chris Thomas](https://people.cs.vt.edu/chris/). I am interested in multi-token generation (discrete diffusion and speculative decoding) and hardware-aware algorithms.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/andrewzhang123/), [GitHub](https://github.com/Andrew-Zhang), [X](https://x.com/Andrew_Zhang0), and [Google Scholar](https://scholar.google.com/citations?user=kARDtYIAAAAJ&hl=en).
 
 ## Get in Touch
 
-Please email me at `azhang42 [at] vt [dot] edu` or DM me on [X](https://x.com/Andrew_Zhang0).
+Please email me at `azhang42 [at] cs [dot] ucla [dot] edu` or DM me on [X](https://x.com/Andrew_Zhang0).

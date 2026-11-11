@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title: "November & December 2025 Reading List"
 date: 2025-12-04 00:00:00-0800
 description: "This November and December, I was interested on MoE efficiency, speculative decoding, and efficient attention methods."
