@@ -73,9 +73,11 @@
 
       .author {
         a {
-          border-bottom: 1px dashed var(--global-theme-color);
+          color: inherit;
+          border-bottom: 1px dashed currentColor;
 
           &:hover {
+            color: inherit;
             border-bottom-style: solid;
             text-decoration: none;
           }
