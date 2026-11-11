@@ -11,7 +11,7 @@ author:
 contact_note: >
   Please email me at azhang42 [at] vt [dot] edu or DM me on X.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal site of Andrew Zhang, focused on efficient inference, multi-token generation, and hardware-aware algorithms.
+  Personal site of Andrew Zhang, a UCLA Computer Science PhD student advised by Aditya Grover, focused on efficient inference, multi-token generation, and hardware-aware algorithms.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

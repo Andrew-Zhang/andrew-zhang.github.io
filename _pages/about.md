@@ -8,7 +8,7 @@ profile:
   image: andrew-zhang-profile.webp
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>AWS Trainium inference</p>
+    <p>UCLA CS PhD student</p>
     <p>Virginia Tech BS/MS</p>
     <p>azhang42 [at] vt [dot] edu</p>
 
@@ -26,7 +26,7 @@ latest_posts:
   limit: 6 # leave blank to include all the blog posts
 ---
 
-I currently work on accelerating inference on AWS Trainium devices. I did a 4 year BS/MS at Virginia Tech under [Dr. Chris Thomas](https://people.cs.vt.edu/chris/). I am interested in multi-token generation (discrete diffusion and speculative decoding) and hardware-aware algorithms.
+I am a PhD student in Computer Science at UCLA, advised by [Aditya Grover](https://aditya-grover.github.io/). I did a 4 year BS/MS at Virginia Tech under [Dr. Chris Thomas](https://people.cs.vt.edu/chris/). I am interested in multi-token generation (discrete diffusion and speculative decoding) and hardware-aware algorithms.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/andrewzhang123/), [GitHub](https://github.com/Andrew-Zhang), [X](https://x.com/Andrew_Zhang0), and [Google Scholar](https://scholar.google.com/citations?user=kARDtYIAAAAJ&hl=en).
 
