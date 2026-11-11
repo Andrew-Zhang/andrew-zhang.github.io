@@ -23,29 +23,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-thought-on-ttt-e2e",
-        
-          title: "Thought on TTT-E2E",
-        
-        description: "Just read the TTT-E2E paper and had some informal thoughts.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/posts/thought-on-ttt-e2e/";
-          
-        },
-      },{id: "post-recent-trend-in-architectures",
-        
-          title: "Recent Trend in Architectures",
-        
-        description: "A recurring recipe seems to be “more parallel computation paths, each narrower.”",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/posts/recent-trend-in-architectures/";
-          
-        },
-      },{id: "post-published-4-papers",
+        },{id: "post-published-4-papers",
         
           title: "Published 4 Papers!",
         
@@ -54,17 +32,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/posts/published-4-papers/";
-          
-        },
-      },{id: "post-november-amp-december-2025-reading-list",
-        
-          title: "November &amp; December 2025 Reading List",
-        
-        description: "This November and December, I was interested on MoE efficiency, speculative decoding, and efficient attention methods.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/posts/november-december-2025-reading-list/";
           
         },
       },{id: "post-discrete-diffusion-for-text-infilling",
@@ -76,17 +43,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/posts/discrete-diffusion-for-text-infilling/";
-          
-        },
-      },{id: "post-multimodal-paper-reviews",
-        
-          title: "Multimodal Paper Reviews",
-        
-        description: "Paper reviews from my graduate multimodal class.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/posts/multimodal-paper-reviews/";
           
         },
       },{
