@@ -74,11 +74,11 @@
       .author {
         a {
           color: inherit;
-          border-bottom: 1px dashed currentColor;
+          border-bottom: none;
+          text-decoration: none;
 
           &:hover {
             color: inherit;
-            border-bottom-style: solid;
             text-decoration: none;
           }
         }
